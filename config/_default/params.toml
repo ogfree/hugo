@@ -39,7 +39,7 @@ disableTextInHeader = false
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
-  showRecent = false
+  showRecent = true
   showRecentItems = 5
   showMoreLink = false
   showMoreLinkDest = "/posts"
@@ -99,7 +99,7 @@ disableTextInHeader = false
   excludedKinds = ["taxonomy", "term"]
 
 [taxonomy]
-  showTermCount = true
+  showTermCount = false 
   showHero = false
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
