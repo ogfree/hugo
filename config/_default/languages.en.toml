@@ -15,7 +15,7 @@ title = "Shyam's Blog"
 
  [author]
    name = "Shyam Mondal"
-   image = "https://pbs.twimg.com/media/FyHcAq-aEAArTib.jpg"
+   image = "../assets/images/image.png"
    headline = "I'm only a piece of sand"
    bio = "i dont know what to say"
    links = [
