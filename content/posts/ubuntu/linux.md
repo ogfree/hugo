@@ -1,7 +1,7 @@
 +++
 title = "Package Managers in Ubuntu"
 date = "2024-08-07"
-featuredImage = "https://pbs.twimg.com/media/EWTlFB_XYAUisqu.jpg:large"
+featuredImage = "/posts/ubuntu/images/ubuntu.jpg"
 +++
 
 
@@ -13,7 +13,9 @@ Certainly! Here's a blog post about various package managers for Ubuntu:
 
 Ubuntu, one of the most popular Linux distributions, is renowned for its user-friendly interface and robust performance. A key aspect of Ubuntu’s functionality lies in its package management system, which simplifies the process of installing, updating, and managing software. In this post, we'll explore various package managers available for Ubuntu, each offering unique features and advantages.
 
-![Example Image](https://pbs.twimg.com/media/EWTlFB_XYAUisqu.jpg:large)
+
+
+<img src="/posts/ubuntu/images/ubuntu.jpg" alt="Ubuntu Image" width="600" />
 
 ## 1. **APT (Advanced Package Tool)**
 
